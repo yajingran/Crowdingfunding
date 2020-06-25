@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 An Excel file of completed analysis on Kickstarter Campaigns
 ## Visualizations
-![BoxPlot](path/to/BoxPlot.png)
+![BoxPlot play](path/to/BoxPlot.png)
 ![Category Statistics](path/to/Category_Statistics.png)
 ![Subcategory Statistics](path/to/Subcategory_Statistics.png)
 ![Outcome Based On Launch Dates](path/to/Outcome_Based_On_Launch_Dates.png)
