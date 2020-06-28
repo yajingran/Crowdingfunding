@@ -8,7 +8,7 @@ Louise, a playwright, wants to start a crowdfunding campaign to help her fund on
 
 ### Analysis of Outcomes Based on Launch Date
 The graph looks like a bell-shape facing downward that implies campaigns happening in the middle months of the year has higher chance of success. Canceled campaigns are below and around 10 per month with light fluctuation. Successful campaigns fluctuate within a wider ranger compare to failed campaigns. 
-![OutcomeBasedonLaunchDates](Outcome_Based_on_Launch_Dates.png)
+![OutcomeBasedonLaunchDates](Outcome_Based_On_Launch_Dates.png)
 ### Analysis of Outcomes Based on Goals
 Generally, goals that are set under $20,000 has a higher chance of success than the ones higher than $20,000. However, goals set between $35,000-$45,000 also has a nearly 70% success rate. Goals that are exceeding $45,000 are at very high risk of failure.
 ![OutcomevsGoals](Outcome_vs_Goals.png)
