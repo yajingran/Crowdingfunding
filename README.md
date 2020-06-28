@@ -1,10 +1,10 @@
 # An Analysis of Kickstarter Campaigns
 An Excel file of completed analysis on Kickstarter Campaigns
 ## Visualizations
-BoxPlot.png
-Category_Statistics.png
-Subcategory_Statistics.png
-Outcome_Based_On_Launch_Dates.png
+![BoxPlot](BoxPlot.png)
+![Category_Statistics](Category_Statistics.png)
+![Subcategory_Statistics](Subcategory_Statistics.png)
+![Outcome_Based_On_Launch_Dates](Outcome_Based_On_Launch_Dates.png)
 ## Suggestions
 1.Overall, the most successgul campaign are the theater campaigns, more specifically, the plays.<br/>
 2.May is the best time to start a campaign, as it shows in our analysis. On the other hand, December is not a very good time to start a campaign as December has the least number of successful campaigns.<br/>
