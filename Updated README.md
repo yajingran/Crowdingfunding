@@ -8,10 +8,10 @@ Louise, a playwright, wants to start a crowdfunding campaign to help her fund on
 
 ### Analysis of Outcomes Based on Launch Date
 The graph looks like a bell-shape facing downward that implies campaigns happening in the middle months of the year has higher chance of success. Canceled campaigns are below and around 10 per month with light fluctuation. Successful campaigns fluctuate within a wider ranger compare to failed campaigns. 
-![OutcomeBasedonLaunchDates](path/to/Outcome_Based_on_Launch_Dates.png)
+![OutcomeBasedonLaunchDates](Outcome_Based_on_Launch_Dates.png)
 ### Analysis of Outcomes Based on Goals
 Generally, goals that are set under $20,000 has a higher chance of success than the ones higher than $20,000. However, goals set between $35,000-$45,000 also has a nearly 70% success rate. Goals that are exceeding $45,000 are at very high risk of failure.
-![OutcomevsGoals](path/to/Outcome_vs_Goals.png)
+![OutcomevsGoals](Outcome_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 1.When I was setting up a pivot table, there was a little struggle to figure out which tabs goes to where. For example, when I was doing Outcome Based on Launch Date, I first put outcomes in the row fields which did not work out to be a clear graph to analyze. However, when doing pivot table, I think it is better to try out different ways of putting data. Most of the times, I will gain better understandings on the data and make a stronger graph.
 2. The biggest difficulty during the challenge was doing the CountIfs function for Outcomes Based on Goals. Since there are more than two criteria, for each function, it is very easy to get wrong on details. For example, since this is based on the subcategory of the plays, there should be a criterion to filter out “plays”. I was checking out mistakes on all the functions, and it did take time. At the end, I found a typo in my function where I put “plays” as “play”. I think one of the biggest challenges when dealing with long functions is to make sure every detail is correct. A little typo like this one, or a number, or even a decimal can make a whole spreadsheet heading towards the wrong direction.
